@@ -54,11 +54,13 @@ body {
     text-decoration: none;
 }
 
-.c-button--icon {
+.c-button__icon {
     color: #000000;
     background-color: #d3caca;
     border: none;
     padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
 }
 
 /**********************************************/
